@@ -33,6 +33,7 @@ public class Test1 {
     }
 
     public static void main(String[] args) {
+// new line is been added
       checkIfRunning();
         for (int i = 0; i < 10; i++) {
             System.out.println("i>>"+i);
